@@ -1,0 +1,1614 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Dec 22 20:28:58 2015
+;; Desktop file format version 206
+;; Emacs version 24.5.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22138 1770 773739 0) (desktop . "206") "mr027750@mac-mr027750" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (foreground-color . "#EDEDED") (background-color . "black") (line-spacing) (left-fringe . 7) (right-fringe . 7) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#96CBFE") (environment) (mouse-color . "sienna1") (border-color . "black") (frameset--id . "4C2C-1C1E-EA94-7D50") (frameset--mini t . t) (height . 57) (width . 203) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 24) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "mac-mr027750.cerner.com") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 56) (min-pixel-width . 70) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 28) (min-pixel-height-safe . 14) (min-pixel-width-safe . 14)) leaf (pixel-width . 1435) (pixel-height . 784) (total-width . 205) (total-height . 56) (normal-height . 1.0) (normal-width . 1.0) (buffer "mvn.out" (selected . t) (hscroll . 0) (fringes 7 7 nil) (margins 2) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 23956) (start . 20892))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("stratification" "d4e2df5e-ab2b-40fd-8de1-9393ac920cfc" "infra" "try-t" "outcome-rule" "link-expr-" "core.clj" "1.7" "rulesetduedate" "due" "cortex" "clara" "c/run-accum" "accumulator clinical-newest-time with the tie breaker fn specified" "r/" "convert-return-fn"))
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . "-accum-retract count-distinct\n                            facts\n                            [{:retract-fact 3\n                              :expected 3}])")))
+(setq file-name-history '("~/.emacs.d/" "~/Projects/synapse/synapse-cli" "~/Projects/cortex/pom.xml" "~/Projects/cortex/project.clj" "~/Projects/cortex/clojure-parent/pom.xml" "~/Projects/cortex/synapse-clinical-core/project.clj" "~/Projects/cortex/synapse-clinical-core/pom.xml" "~/Projects/synapse-infra/synapse-infra-core/src/main/clojure/synapse/" "~/Projects/cortex/synapse-clinical-core/src/main/clojure/synapse/clinical/programs.clj" "~/Projects/cortex/synapse-clinical-core/src/main/clojure/synapse/clinical/" "~/.m2/repository/org/clojure/" "~/Projects/cortex/synapse-clinical-core/src/main/clojure/synapse/clinical/" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/app-rules/mvn.out" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/rules/test_accumulators.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/rules/test_accumulators.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/rules" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-cli" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/test/test_common.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/test/test_common.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/test/test_common.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/test/test_common.clj" "~/Projects/clara-rules/src/main/clojure/clara/rules/accumulators.cljc" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/test/test_common.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/test/test_common.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/test/test_common.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/test/test_common.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/test/" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/test/" "~/Projects/synapse-infra/synapse-infra-test/src/main/clojure/synapse/infra/test/" "~/Projects/synapse-infra/synapse-infra-test/" "~/Projects/synapse-infra/project.clj" "~/Projects/synapse-infra/synapse-infra-test/project.clj" "~/Projects/synapse-infra/synapse-infra-test/src/main/" "~/Projects/synapse-infra/synapse-infra-core/src/main/clojure/" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/rules/" "~/Projects/healthe-intent-platform-rules/src/main/" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/rules/accumulators.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/rules.clj" "~/Projects/synapse/synapse-core/src/main/clojure/synapse/" "~/Documents/synapse" "~/Documents/synapsep" "~/Projects/app-rules/" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/app-rules/mvn.out" "~/Projects/app-rules/" "~/Projects/synapse/synapse-hadoop/src/test/clojure/" "~/.m2/" "~/Projects/synapse/synapse-core/src/test/clojure/synapse/" "~/Projects/cortex/testrules/" "~/Documents/synapse/wiki/rules-tips-scratch-notes.txt" "~/Documents/synapse/wiki/" "~/Projects/app-rules/src/main/resources/advocate/common/bmi_rules.clj" "~/Projects/app-rules/src/main/resources/advocate/scpcommunication/org2014/clinical.clj" "~/Projects/cortex/synapse-test/src/main/clojure/synapse/test/drools_session_test_helpers.clj" "~/Documents/synapse/" "~/Projects/clara-rules/src/main/clojure/clara/rules/compiler.clj" "~/Projects/rules-artifact-mgmt/pom.xml" "~/Projects/app-rules/pom.xml" "~/Projects/app-rules/mvn.out" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/loader.clj" "~/Projects/synapse/synapse-examples/src/main/clojure/synapse/examples/" "~/Projects/andover/andover-data/src/test/clojure/andover/" "~/Projects/andover/andover-data/src/test/clojure/andover/process/test_crunch.clj" "~/Projects/andover/andover-data/src/main/clojure/andover/process/" "~/Projects/andover/andover-data/src/main/clojure/andover/process/crunch.clj" "~/Projects/andover/andover-data/src/main/clojure/andover/" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/lang.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj" "~/Projects/healthe-intent-platform-rules/src/main/clojure/hi/standard/readmissions/common/" "~/Projects/healthe-intent-platform-rules/src/test/clojure/hi/standard/" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/dtest_clara.clj" "~/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj" "~/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/app-rules/mvn.out"
+  "mvn.out"
+  'fundamental-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode)
+  23956
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-lang/src/test/clojure/synapse/test_clara.clj"
+  "test_clara.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  5606
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-clinical-core/src/main/clojure/synapse/clinical/programs.clj"
+  "programs.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  6447
+  '(29028 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/.m2/repository/org/clojure/clojure/1.7.0/clojure-1.7.0.jar:clojure/core.clj"
+  "core.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  147956
+  '(76236 nil)
+  t
+  nil
+  '((indent-tabs-mode)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-cli/src/main/clojure/synapse/repl.clj"
+  "repl.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1947
+  '(6102 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "synapse"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  283
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-cli/src/main/clojure/synapse/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "clojure"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  268
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-cli/src/main/clojure/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "main"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  267
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-cli/src/main/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  258
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-cli/src/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "synapse-cli"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  1164
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-cli/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/pom.xml"
+  "pom.xml"
+  'nxml-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-complete-mode)
+  7881
+  '(11066 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  3747
+  '(3747 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/clojure-parent/pom.xml"
+  "pom.xml"
+  'nxml-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-complete-mode)
+  745
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-clinical-core/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  648
+  '(601 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-clinical-core/pom.xml"
+  "pom.xml"
+  'nxml-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-complete-mode)
+  1959
+  '(990 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse-infra/synapse-infra-core/src/main/clojure/synapse/infra/utils.clj"
+  "utils.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  5
+  '(24 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "infra"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  561
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-core/src/main/clojure/synapse/infra/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "synapse"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  289
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-core/src/main/clojure/synapse/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-clinical-core/src/main/clojure/synapse/clinical/components.clj"
+  "components.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  9733
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Documents/synapse/clara-integration/cortex-in-clara.txt"
+  "cortex-in-clara.txt"
+  'text-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode auto-complete-mode)
+  84061
+  '(291 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "clinical"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  497
+  '(497 nil)
+  t
+  '("/Users/mr027750/Projects/cortex/synapse-clinical-core/src/main/clojure/synapse/clinical/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "clara-integration"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  346
+  '(nil nil)
+  t
+  '("/Users/mr027750/Documents/synapse/clara-integration/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-core/src/test/clojure/synapse/test/test_common.clj"
+  "test_common.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  150
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/.m2/repository/org/clojure/clojure/1.7.0/clojure-1.7.0.jar:clojure/core_deftype.clj"
+  "core_deftype.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  29494
+  '(nil nil)
+  t
+  nil
+  '((indent-tabs-mode)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/.m2/repository/org/clojure/clojure/1.7.0/clojure-1.7.0.jar:clojure/repl.clj"
+  "repl.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  7054
+  '(nil nil)
+  t
+  nil
+  '((indent-tabs-mode)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/clara-rules/src/main/clojure/clara/rules/compiler.clj"
+  "compiler.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  53549
+  '(51515 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-clinical-core/src/main/clojure/synapse/clinical/due_dates.clj"
+  "due_dates.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  3857
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-lang/src/main/clojure/synapse/clara.clj"
+  "clara.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  20403
+  '(1433 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-core/src/main/clojure/synapse/test/common.clj"
+  "common.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  3654
+  '(3554 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-core/src/test/clojure/synapse/rules/test_accumulators.clj"
+  "test_accumulators.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  10388
+  '(10171 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-core/src/main/clojure/synapse/rules/accumulators.clj"
+  "accumulators.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  8075
+  '(993 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "rules"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  293
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-core/src/main/clojure/synapse/rules/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/clara-rules/src/main/clojure/clara/rules/accumulators.cljc"
+  "accumulators.cljc"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1
+  '(1665 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-core/src/main/clojure/synapse/rules.clj"
+  "rules.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1
+  '(1588 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/clara-rules/src/main/clojure/clara/rules/memory.cljc"
+  "memory.cljc"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  10988
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Documents/synapse/pipeline-test/verify-2244.txt"
+  "verify-2244.txt"
+  'text-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode auto-complete-mode)
+  12351
+  '(12351 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "test"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  371
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-core/src/test/clojure/synapse/test/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "test"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  366
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-core/src/main/clojure/synapse/test/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse-infra/synapse-infra-test/src/main/clojure/synapse/infra/test/common.clj"
+  "common.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  2318
+  '(10397 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "test"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  380
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-test/src/main/clojure/synapse/infra/test/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "infra"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  295
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-test/src/main/clojure/synapse/infra/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "synapse"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  289
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-test/src/main/clojure/synapse/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "clojure"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  281
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-test/src/main/clojure/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "main"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  328
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-test/src/main/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  271
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-test/src/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "test"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  220
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-test/src/test/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "synapse-infra-test"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  638
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-test/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse-infra/synapse-infra-test/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  559
+  '(225 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse-infra/project.clj"
+  "project.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "clojure"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  281
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse-infra/synapse-infra-core/src/main/clojure/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-hadoop/src/main/clojure/synapse/hadoop.clj"
+  "hadoop.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  862
+  '(875 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/.m2/repository/org/toomuchcode/clara-rules/0.9.2/clara-rules-0.9.2.jar:clara/rules.cljc"
+  "rules.cljc"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  5258
+  '(nil nil)
+  t
+  nil
+  '((indent-tabs-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "synapse"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  714
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-core/src/main/clojure/synapse/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/healthe-intent-platform-rules/src/main/clojure/hi/standard/analytics/costutilization/cost_utilization.clj"
+  "cost_utilization.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  26058
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/healthe-intent-platform-rules/src/main/clojure/hi/standard/transitionofcare.clj"
+  "transitionofcare.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  105585
+  '(14368 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "standard"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  1056
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/healthe-intent-platform-rules/src/main/clojure/hi/standard/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "hi"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  355
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/healthe-intent-platform-rules/src/main/clojure/hi/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "clojure"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  278
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/healthe-intent-platform-rules/src/main/clojure/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "main"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  270
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/healthe-intent-platform-rules/src/main/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Documents/synapse/clara-integration/negated-conjunctions.txt"
+  "negated-conjunctions.txt"
+  'text-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode auto-complete-mode)
+  7210
+  '(7210 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "synapse"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  2769
+  '(1 nil)
+  t
+  '("/Users/mr027750/Documents/synapse/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Documents/synapsep"
+  "synapsep"
+  'fundamental-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "app-rules"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  971
+  '(252 nil)
+  t
+  '("/Users/mr027750/Projects/app-rules/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/rules-artifact-mgmt/pom.xml"
+  "pom.xml"
+  'nxml-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-complete-mode)
+  15941
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-lang/src/main/clojure/synapse/lang.clj"
+  "lang.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  99759
+  '(14018 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-hadoop/src/test/clojure/synapse/simple_rules.clj"
+  "simple_rules.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1610
+  '(619 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "synapse"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  357
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-hadoop/src/test/clojure/synapse/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "clojure"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  336
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-hadoop/src/test/clojure/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-core/src/test/clojure/synapse/rules/test_settings.clj"
+  "test_settings.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  7278
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/.m2/settings.xml"
+  "settings.xml"
+  'nxml-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode auto-complete-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  ".m2"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  438
+  '(nil nil)
+  t
+  '("/Users/mr027750/.m2/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "rules"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  368
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-core/src/test/clojure/synapse/rules/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "synapse"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  528
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-core/src/test/clojure/synapse/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/testrules/src/main/resources/testrules/testhelper/program_test_helpers.clj"
+  "program_test_helpers.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  54081
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Downloads/rules.clj"
+  "rules.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  4350
+  '(5156 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "testhelper"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  530
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/cortex/testrules/src/main/resources/testrules/testhelper/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "testrules"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  605
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/cortex/testrules/src/main/resources/testrules/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "resources"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  332
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/cortex/testrules/src/main/resources/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "main"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  322
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/cortex/testrules/src/main/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  321
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/cortex/testrules/src/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "testrules"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  763
+  '(317 nil)
+  t
+  '("/Users/mr027750/Projects/cortex/testrules/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Documents/synapse/wiki/rules-tips-scratch-notes.txt"
+  "rules-tips-scratch-notes.txt"
+  'text-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode auto-complete-mode)
+  2819
+  '(55 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Documents/synapse/wiki/rules-engine-tips.txt"
+  "rules-engine-tips.txt"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode eldoc-mode paredit-mode auto-complete-mode cider-mode)
+  4353
+  '(1476 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "wiki"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  2234
+  '(1773 nil)
+  t
+  '("/Users/mr027750/Documents/synapse/wiki/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "design"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  285
+  '(nil nil)
+  t
+  '("/Users/mr027750/Documents/synapse/wiki/design/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/app-rules/src/main/resources/advocate/common/bmi_rules.clj"
+  "bmi_rules.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  10518
+  '(1472 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/app-rules/src/test/clojure/advocate/childhoodimmunizations/org2014/test_childhood_immunizations_program_identification.clj"
+  "test_childhood_immunizations_program_identification.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  15371
+  '(712 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/app-rules/src/test/clojure/advocate/congestiveheartfailure/org2014/test_congestive_heart_failure_program_identification_tests.clj"
+  "test_congestive_heart_failure_program_identification_tests.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  26174
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-test/src/main/clojure/synapse/test/drools_session_test_helpers.clj"
+  "drools_session_test_helpers.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  5477
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/app-rules/README.md"
+  "README.md"
+  'fundamental-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/app-rules/pom.xml"
+  "pom.xml"
+  'nxml-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode auto-complete-mode)
+  610
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-lang/src/main/clojure/synapse/loader.clj"
+  "loader.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  2307
+  '(344 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-populous/src/main/clojure/synapse/populous/mapping.clj"
+  "mapping.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  7240
+  '(133469 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "examples"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  240
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-examples/src/main/clojure/synapse/examples/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-hadoop/src/test/clojure/synapse/test_mapreduce.clj"
+  "test_mapreduce.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  30161
+  '(39422 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/andover/andover-data/src/test/clojure/andover/test_process.clj"
+  "test_process.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1
+  '(9966 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "andover"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  539
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/test/clojure/andover/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/andover/andover-data/src/test/clojure/andover/process/test_crunch.clj"
+  "test_crunch.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  4387
+  '(257 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "process"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  292
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/main/clojure/andover/process/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/andover/andover-data/src/main/clojure/andover/process/crunch.clj"
+  "crunch.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  11256
+  '(5083 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/andover/andover-data/src/main/clojure/andover/process.clj"
+  "process.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  8321
+  '(15029 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "andover"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  462
+  '(284 nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/main/clojure/andover/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/andover/andover-data/src/test/clojure/andover/avro/test_schema.clj"
+  "test_schema.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  6
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/healthe-intent-platform-rules/src/main/clojure/hi/standard/readmissions/common/rules.clj"
+  "rules.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  7847
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/healthe-intent-platform-rules/src/test/clojure/hi/standard/readmissions/common/test_rules.clj"
+  "test_rules.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  21053
+  '(4213 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "common"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  317
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/healthe-intent-platform-rules/src/main/clojure/hi/standard/readmissions/common/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "common"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  318
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/healthe-intent-platform-rules/src/test/clojure/hi/standard/readmissions/common/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "readmissions"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  313
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/healthe-intent-platform-rules/src/test/clojure/hi/standard/readmissions/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "standard"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  627
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/healthe-intent-platform-rules/src/test/clojure/hi/standard/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/clara-rules/src/main/clojure/clara/rules/schema.clj"
+  "schema.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1935
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/.m2/repository/potemkin/potemkin/0.4.1/potemkin-0.4.1.jar:potemkin/types.clj"
+  "types.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  5501
+  '(nil nil)
+  t
+  nil
+  '((indent-tabs-mode)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Documents/synapse/wiki/avro-schema-compat.txt"
+  "avro-schema-compat.txt"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  9183
+  '(9127 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-core/src/test/clojure/synapse/test_flow.clj"
+  "test_flow.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1
+  '(30938 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-core/src/main/clojure/synapse/flow.clj"
+  "flow.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  6259
+  '(6233 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-runtime/src/main/clojure/synapse/runtime.clj"
+  "runtime.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  6926
+  '(8391 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/healthe-intent-platform-rules/src/test/clojure/hi/standard/test_transitionofcare.clj"
+  "test_transitionofcare.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  224334
+  '(52134 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-populous/src/test/clojure/synapse/populous/test_mapping.clj"
+  "test_mapping.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  437071
+  '(11883 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "specific"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  288
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/test/avro/andover/avro/specific/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "avro"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  279
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/test/avro/andover/avro/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "andover"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  274
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/test/avro/andover/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "avro"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  266
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/test/avro/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "test"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  261
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/test/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-core/src/main/clojure/synapse/model/event.clj"
+  "event.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  2731
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "pipeline-test"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  30514
+  '(1 nil)
+  t
+  '("/Users/mr027750/Documents/synapse/pipeline-test/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Documents/synapse/pipeline-test/verify-1541.txt"
+  "verify-1541.txt"
+  'text-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode auto-complete-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/healthe-intent-platform-rules/src/main/clojure/hi/standard/events.clj"
+  "events.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "model"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  829
+  '(1 nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-core/src/main/clojure/synapse/model/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/andover/andover-data/src/main/clojure/andover/data.clj"
+  "data.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  5525
+  '(8491 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/andover/andover-data/src/main/clojure/andover/avro/conversions.clj"
+  "conversions.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  12
+  '(5 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "pediatricibd"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  333
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/cerner-standard-rules/cerner-standard-rules/src/main/resources/cernerstandard/pediatricibd/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "org2014"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  342
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/cerner-standard-rules/cerner-standard-rules/src/main/resources/cernerstandard/diabetesmellitus/org2014/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "diabetesmellitus"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  332
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/cerner-standard-rules/cerner-standard-rules/src/main/resources/cernerstandard/diabetesmellitus/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "cernerstandard"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  946
+  '(1 nil)
+  t
+  '("/Users/mr027750/Projects/cerner-standard-rules/cerner-standard-rules/src/main/resources/cernerstandard/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "common"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  271
+  '(739 nil)
+  t
+  '("/Users/mr027750/Projects/cerner-standard-rules/cerner-standard-rules/src/main/resources/cernerstandard/common/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "avro"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  370
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/main/clojure/andover/avro/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "synapse"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  286
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-hadoop/src/main/clojure/synapse/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "synapse"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  1647
+  '(1 nil)
+  t
+  '("/Users/mr027750/Projects/synapse/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/andover/andover-data/src/main/clojure/andover/avro/schema.clj"
+  "schema.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  7590
+  '(8014 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "clojure"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  269
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/main/clojure/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "main"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  261
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/main/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "avro"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  488
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/andover/andover-data/src/test/clojure/andover/avro/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-populous/src/main/clojure/synapse/populous/event.clj"
+  "event.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1
+  '(10322 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/synapse/synapse-populous/src/main/clojure/synapse/populous/event/mapping.clj"
+  "mapping.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  1233
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "populous"
+  'dired-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode)
+  558
+  '(nil nil)
+  t
+  '("/Users/mr027750/Projects/synapse/synapse-populous/src/main/clojure/synapse/populous/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/mr027750/Projects/cortex/synapse-lang/src/test/clojure/synapse/dtest_clara.clj"
+  "dtest_clara.clj"
+  'clojure-mode
+  '(auto-compile-on-load-mode flx-ido-mode window-number-mode volatile-highlights-mode yas-minor-mode undo-tree-mode git-gutter-mode eldoc-mode rainbow-delimiters-mode paredit-mode auto-complete-mode cider-mode clj-refactor-mode)
+  40
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
